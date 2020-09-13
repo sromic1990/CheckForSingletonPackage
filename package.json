@@ -1,0 +1,16 @@
+{
+    "name": "com.sourav.checkforsingleton",
+    "displayName": "Sourav SingletonCheck Package",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "This is a simple package that is used by other tools to check for an existing singleton in the active scene. In case of singleton being present, the caller is notified. This can be used as a tool for editor scripting to check for and prevent editor creation of more than one instance of singleton in scene.",
+    "author": {
+        "name": "Sourav Chatterjee",
+        "email": "sromic@gmail.com"
+    },
+    "keywords": [
+        "DontDestroyOnLoad",
+        "Unity",
+        "Sourav"
+      ]
+}
